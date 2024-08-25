@@ -248,7 +248,7 @@ def send_to_mysql(df, table_name, host, user, password, database):
 
 # Función para autenticar al usuario
 def authenticate(username, password):
-    return username == "admin" and password == "password"
+    return username == "einnova_python_development" and password == "scripts_python-ID274"
 
 # Función principal
 def main():
